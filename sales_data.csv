@@ -1,0 +1,1001 @@
+Order_ID,Category,Product,Region,Quantity,Price,Sales,Order_Date
+1,Clothing,Shirt,South,9,289,2601,2023-01-21
+2,Clothing,Jeans,East,4,391,1564,2024-07-31
+3,Electronics,Laptop,West,6,109,654,2024-01-04
+4,Sports,Football,South,2,445,890,2024-12-14
+5,Sports,Cricket Bat,West,3,235,705,2024-07-09
+6,Electronics,Headphones,West,1,199,199,2024-02-14
+7,Electronics,Tablet,South,1,106,106,2023-01-31
+8,Electronics,Tablet,West,8,152,1216,2023-10-03
+9,Furniture,Bed,South,6,438,2628,2023-07-03
+10,Furniture,Sofa,East,4,127,508,2023-11-16
+11,Furniture,Table,East,5,112,560,2024-10-31
+12,Sports,Shoes,East,5,457,2285,2023-03-02
+13,Electronics,Mobile,East,2,482,964,2023-03-31
+14,Electronics,Mobile,South,8,73,584,2024-06-27
+15,Electronics,Laptop,North,6,123,738,2024-01-14
+16,Sports,Football,South,1,230,230,2024-10-10
+17,Electronics,Tablet,East,4,332,1328,2024-11-05
+18,Electronics,Laptop,East,8,444,3552,2023-07-29
+19,Electronics,Headphones,South,4,362,1448,2024-05-03
+20,Clothing,Jeans,West,9,475,4275,2023-10-11
+21,Sports,Football,East,8,236,1888,2024-04-06
+22,Beauty,Perfume,East,9,337,3033,2024-01-10
+23,Beauty,Shampoo,North,3,323,969,2024-11-02
+24,Sports,Cricket Bat,West,9,407,3663,2024-04-23
+25,Beauty,Face Cream,South,6,495,2970,2024-01-07
+26,Electronics,Tablet,East,7,428,2996,2024-07-13
+27,Sports,Shoes,West,8,330,2640,2024-08-11
+28,Furniture,Bed,South,2,399,798,2024-06-22
+29,Clothing,Shirt,North,8,213,1704,2024-05-15
+30,Sports,Cricket Bat,South,6,486,2916,2024-03-20
+31,Beauty,Shampoo,North,7,68,476,2024-11-05
+32,Electronics,Mobile,South,2,242,484,2024-02-22
+33,Sports,Cricket Bat,West,8,488,3904,2024-03-14
+34,Electronics,Headphones,South,8,52,416,2023-10-07
+35,Clothing,Jacket,North,2,447,894,2024-02-29
+36,Electronics,Tablet,West,2,497,994,2023-04-04
+37,Clothing,Shirt,East,4,107,428,2023-04-25
+38,Clothing,Shoes,East,2,235,470,2024-04-01
+39,Clothing,Jacket,North,5,76,380,2024-03-03
+40,Clothing,Jeans,East,5,124,620,2024-11-09
+41,Beauty,Perfume,North,5,126,630,2024-11-02
+42,Electronics,Laptop,West,2,356,712,2023-12-12
+43,Furniture,Sofa,West,3,400,1200,2024-11-28
+44,Furniture,Bed,South,2,55,110,2023-04-20
+45,Sports,Cricket Bat,South,1,227,227,2024-04-06
+46,Sports,Football,South,6,20,120,2023-08-26
+47,Beauty,Lipstick,North,9,218,1962,2024-01-20
+48,Sports,Shoes,East,2,146,292,2024-07-07
+49,Beauty,Shampoo,West,8,59,472,2024-03-12
+50,Electronics,Laptop,East,9,108,972,2024-01-30
+51,Electronics,Laptop,West,9,166,1494,2023-12-27
+52,Clothing,Jacket,North,2,37,74,2023-10-14
+53,Sports,Football,North,7,399,2793,2023-10-06
+54,Clothing,Shirt,North,9,219,1971,2023-10-24
+55,Furniture,Chair,South,9,184,1656,2023-07-02
+56,Clothing,Jacket,East,5,221,1105,2024-07-17
+57,Electronics,Headphones,West,4,276,1104,2024-02-22
+58,Furniture,Chair,North,6,421,2526,2023-06-05
+59,Beauty,Shampoo,South,6,290,1740,2024-10-15
+60,Beauty,Face Cream,North,4,277,1108,2024-09-17
+61,Beauty,Perfume,North,2,433,866,2023-07-29
+62,Furniture,Chair,West,1,98,98,2024-01-04
+63,Sports,Tennis Racket,South,8,100,800,2024-06-29
+64,Clothing,Shirt,West,7,220,1540,2024-05-01
+65,Sports,Shoes,North,3,101,303,2024-01-06
+66,Furniture,Chair,East,9,170,1530,2024-04-07
+67,Clothing,Shirt,East,1,378,378,2024-11-23
+68,Furniture,Chair,South,6,150,900,2023-05-18
+69,Furniture,Chair,West,9,124,1116,2023-02-19
+70,Sports,Football,West,2,467,934,2023-02-15
+71,Clothing,Jacket,West,2,484,968,2023-12-09
+72,Electronics,Tablet,North,4,340,1360,2024-02-05
+73,Furniture,Chair,South,8,471,3768,2024-07-11
+74,Electronics,Laptop,South,9,202,1818,2023-01-26
+75,Sports,Cricket Bat,North,8,408,3264,2023-03-05
+76,Clothing,Shoes,East,4,278,1112,2023-02-25
+77,Electronics,Mobile,South,2,459,918,2024-07-03
+78,Clothing,Shoes,East,1,106,106,2023-01-31
+79,Electronics,Headphones,East,4,482,1928,2024-06-07
+80,Furniture,Chair,East,5,225,1125,2024-03-13
+81,Furniture,Bed,North,4,486,1944,2023-10-22
+82,Sports,Football,South,6,21,126,2024-02-07
+83,Beauty,Lipstick,North,6,253,1518,2023-07-13
+84,Electronics,Headphones,West,4,413,1652,2023-02-23
+85,Furniture,Chair,North,7,137,959,2024-07-06
+86,Sports,Football,South,7,389,2723,2023-04-08
+87,Sports,Tennis Racket,East,3,185,555,2024-09-03
+88,Beauty,Shampoo,West,5,106,530,2023-09-24
+89,Furniture,Table,East,5,263,1315,2023-11-05
+90,Beauty,Perfume,West,3,328,984,2023-11-04
+91,Electronics,Laptop,South,1,325,325,2024-02-19
+92,Furniture,Table,East,2,52,104,2023-10-01
+93,Electronics,Mobile,West,2,128,256,2023-01-27
+94,Beauty,Face Cream,South,9,208,1872,2023-03-12
+95,Clothing,Shoes,East,6,224,1344,2023-02-20
+96,Clothing,Jacket,North,3,480,1440,2024-02-24
+97,Sports,Cricket Bat,West,9,237,2133,2023-01-17
+98,Clothing,Jacket,East,3,399,1197,2023-05-25
+99,Clothing,Jacket,North,1,20,20,2024-02-08
+100,Clothing,Shoes,South,1,124,124,2024-09-28
+101,Furniture,Sofa,South,1,27,27,2024-06-17
+102,Electronics,Mobile,South,9,290,2610,2023-05-16
+103,Furniture,Chair,North,4,99,396,2024-08-19
+104,Furniture,Bed,East,2,433,866,2023-03-06
+105,Clothing,Jeans,East,9,492,4428,2023-08-29
+106,Beauty,Shampoo,South,8,324,2592,2023-01-20
+107,Beauty,Lipstick,South,3,335,1005,2023-05-25
+108,Furniture,Sofa,East,3,337,1011,2023-10-28
+109,Furniture,Sofa,North,6,89,534,2024-11-24
+110,Electronics,Mobile,South,3,338,1014,2023-09-04
+111,Sports,Cricket Bat,North,1,470,470,2024-11-23
+112,Clothing,Jacket,South,6,77,462,2023-03-19
+113,Sports,Cricket Bat,South,5,470,2350,2024-02-16
+114,Clothing,Shirt,East,5,273,1365,2024-03-22
+115,Beauty,Shampoo,West,2,124,248,2023-03-03
+116,Electronics,Tablet,West,2,220,440,2023-10-11
+117,Beauty,Perfume,South,7,397,2779,2024-07-11
+118,Clothing,Shoes,East,5,283,1415,2024-12-26
+119,Electronics,Headphones,South,8,237,1896,2024-11-23
+120,Beauty,Lipstick,North,8,255,2040,2024-06-20
+121,Furniture,Chair,West,4,268,1072,2024-01-19
+122,Clothing,Jacket,South,4,216,864,2024-02-12
+123,Beauty,Shampoo,North,9,195,1755,2023-11-25
+124,Clothing,Jeans,West,2,186,372,2024-08-05
+125,Sports,Football,East,3,479,1437,2023-01-19
+126,Beauty,Lipstick,North,8,72,576,2024-05-09
+127,Beauty,Shampoo,West,8,24,192,2024-05-15
+128,Clothing,Jacket,South,8,132,1056,2023-03-27
+129,Sports,Cricket Bat,South,9,375,3375,2023-06-16
+130,Electronics,Tablet,West,2,141,282,2024-05-19
+131,Electronics,Tablet,East,5,343,1715,2024-02-25
+132,Electronics,Mobile,East,1,340,340,2023-05-20
+133,Furniture,Sofa,East,5,400,2000,2023-05-18
+134,Furniture,Chair,North,3,421,1263,2023-02-28
+135,Furniture,Bed,North,4,288,1152,2024-01-14
+136,Clothing,Shirt,West,9,436,3924,2024-07-18
+137,Beauty,Perfume,South,6,317,1902,2024-11-20
+138,Clothing,Shoes,West,7,309,2163,2023-05-06
+139,Furniture,Bed,East,4,348,1392,2024-01-14
+140,Clothing,Jacket,West,8,139,1112,2024-08-05
+141,Beauty,Face Cream,South,3,234,702,2024-04-19
+142,Sports,Cricket Bat,West,6,154,924,2024-04-24
+143,Electronics,Mobile,North,5,313,1565,2023-03-05
+144,Electronics,Laptop,West,3,143,429,2023-05-05
+145,Electronics,Laptop,West,3,80,240,2024-03-01
+146,Electronics,Mobile,East,3,401,1203,2023-06-23
+147,Sports,Shoes,East,6,405,2430,2023-11-16
+148,Sports,Cricket Bat,West,7,212,1484,2024-02-04
+149,Beauty,Face Cream,South,5,62,310,2023-09-08
+150,Electronics,Tablet,South,4,157,628,2024-10-04
+151,Electronics,Headphones,East,4,264,1056,2024-04-17
+152,Furniture,Sofa,East,5,439,2195,2023-11-26
+153,Clothing,Shirt,West,2,198,396,2023-09-14
+154,Furniture,Chair,West,8,233,1864,2024-06-09
+155,Furniture,Chair,North,4,498,1992,2024-11-28
+156,Electronics,Tablet,North,1,427,427,2023-08-20
+157,Beauty,Lipstick,North,1,215,215,2023-10-06
+158,Furniture,Sofa,West,4,416,1664,2024-10-21
+159,Sports,Tennis Racket,West,5,84,420,2023-08-10
+160,Furniture,Bed,West,6,89,534,2024-03-24
+161,Beauty,Lipstick,East,9,55,495,2023-05-25
+162,Electronics,Mobile,East,2,318,636,2024-08-25
+163,Sports,Tennis Racket,East,6,310,1860,2023-03-06
+164,Clothing,Shoes,North,8,229,1832,2023-03-14
+165,Furniture,Chair,West,4,178,712,2024-09-06
+166,Furniture,Table,South,6,247,1482,2024-09-04
+167,Furniture,Table,North,8,241,1928,2024-10-11
+168,Sports,Cricket Bat,South,9,459,4131,2024-03-26
+169,Sports,Football,West,6,495,2970,2023-01-08
+170,Furniture,Bed,West,1,436,436,2024-03-13
+171,Sports,Shoes,South,2,359,718,2023-03-29
+172,Clothing,Shoes,South,5,152,760,2023-09-28
+173,Electronics,Headphones,West,9,146,1314,2023-08-14
+174,Beauty,Face Cream,East,2,453,906,2023-08-11
+175,Electronics,Headphones,East,2,73,146,2024-09-03
+176,Beauty,Perfume,East,3,281,843,2023-06-28
+177,Sports,Tennis Racket,East,8,438,3504,2024-01-23
+178,Sports,Shoes,West,2,270,540,2024-11-10
+179,Sports,Football,North,5,481,2405,2024-12-21
+180,Clothing,Shoes,East,2,295,590,2024-03-13
+181,Sports,Shoes,South,7,275,1925,2023-06-10
+182,Furniture,Table,North,3,135,405,2024-01-26
+183,Electronics,Tablet,South,1,492,492,2023-05-14
+184,Furniture,Bed,North,8,39,312,2023-12-19
+185,Sports,Cricket Bat,East,8,183,1464,2023-08-28
+186,Furniture,Sofa,East,9,347,3123,2023-01-15
+187,Furniture,Table,North,2,205,410,2023-11-25
+188,Electronics,Laptop,North,9,477,4293,2023-11-11
+189,Beauty,Shampoo,West,8,445,3560,2024-02-09
+190,Clothing,Shirt,North,9,74,666,2024-01-12
+191,Clothing,Shirt,East,3,340,1020,2023-10-10
+192,Sports,Tennis Racket,East,2,227,454,2023-10-16
+193,Furniture,Chair,West,4,456,1824,2024-06-11
+194,Sports,Football,West,7,159,1113,2023-09-21
+195,Furniture,Sofa,North,3,93,279,2023-12-28
+196,Furniture,Sofa,North,6,424,2544,2023-02-03
+197,Sports,Cricket Bat,South,1,312,312,2024-06-19
+198,Sports,Shoes,West,6,112,672,2023-05-01
+199,Sports,Cricket Bat,East,5,55,275,2024-10-07
+200,Sports,Tennis Racket,North,2,336,672,2023-10-13
+201,Sports,Tennis Racket,East,3,456,1368,2023-09-06
+202,Furniture,Table,East,8,465,3720,2024-02-18
+203,Furniture,Table,South,8,257,2056,2023-02-24
+204,Furniture,Bed,East,9,347,3123,2024-09-09
+205,Furniture,Sofa,North,5,202,1010,2023-08-28
+206,Electronics,Headphones,North,7,100,700,2024-08-25
+207,Electronics,Mobile,West,7,349,2443,2023-11-13
+208,Furniture,Table,North,6,98,588,2024-12-01
+209,Sports,Shoes,West,1,491,491,2023-01-21
+210,Sports,Shoes,South,6,458,2748,2024-05-20
+211,Furniture,Sofa,North,4,370,1480,2024-01-26
+212,Furniture,Table,West,7,207,1449,2024-01-20
+213,Clothing,Jeans,West,8,247,1976,2023-08-24
+214,Beauty,Face Cream,West,8,364,2912,2024-01-13
+215,Sports,Tennis Racket,West,8,267,2136,2024-04-11
+216,Electronics,Laptop,East,3,64,192,2023-10-28
+217,Clothing,Jeans,East,6,172,1032,2024-05-09
+218,Beauty,Perfume,East,3,361,1083,2023-03-03
+219,Electronics,Headphones,East,6,157,942,2024-10-16
+220,Beauty,Face Cream,North,1,53,53,2023-10-23
+221,Clothing,Shirt,South,6,233,1398,2024-10-25
+222,Furniture,Sofa,North,3,213,639,2024-12-06
+223,Furniture,Sofa,South,6,122,732,2023-05-17
+224,Sports,Tennis Racket,South,2,429,858,2024-11-06
+225,Clothing,Jeans,West,7,234,1638,2023-10-28
+226,Clothing,Shoes,East,6,244,1464,2024-08-05
+227,Furniture,Bed,South,5,200,1000,2024-12-20
+228,Beauty,Perfume,West,1,238,238,2024-03-10
+229,Beauty,Perfume,North,2,490,980,2023-09-20
+230,Sports,Cricket Bat,West,4,83,332,2024-04-08
+231,Furniture,Chair,West,5,458,2290,2024-08-17
+232,Sports,Cricket Bat,West,8,463,3704,2023-09-04
+233,Furniture,Sofa,South,3,76,228,2024-12-16
+234,Clothing,Shoes,West,7,26,182,2023-09-11
+235,Sports,Football,West,9,258,2322,2023-02-12
+236,Beauty,Lipstick,East,9,262,2358,2023-09-15
+237,Electronics,Laptop,South,7,146,1022,2023-08-17
+238,Electronics,Headphones,North,5,208,1040,2024-03-24
+239,Beauty,Lipstick,East,1,38,38,2023-07-01
+240,Clothing,Shirt,North,4,194,776,2024-12-05
+241,Clothing,Jeans,South,4,486,1944,2024-04-29
+242,Beauty,Perfume,West,5,311,1555,2023-04-16
+243,Beauty,Lipstick,South,3,411,1233,2023-08-13
+244,Electronics,Tablet,West,3,107,321,2023-08-27
+245,Clothing,Jacket,South,7,483,3381,2023-07-17
+246,Sports,Cricket Bat,East,4,59,236,2024-11-02
+247,Furniture,Table,West,6,447,2682,2024-12-31
+248,Sports,Tennis Racket,West,6,459,2754,2024-02-04
+249,Beauty,Face Cream,South,4,176,704,2024-05-11
+250,Sports,Tennis Racket,West,3,149,447,2024-12-29
+251,Sports,Shoes,East,6,169,1014,2023-05-08
+252,Furniture,Table,North,3,228,684,2023-06-26
+253,Sports,Football,East,5,222,1110,2023-02-08
+254,Furniture,Bed,West,3,104,312,2024-10-30
+255,Furniture,Sofa,East,2,480,960,2023-02-17
+256,Beauty,Lipstick,North,1,42,42,2024-05-24
+257,Beauty,Perfume,South,9,499,4491,2023-09-15
+258,Furniture,Chair,South,2,401,802,2024-12-06
+259,Furniture,Bed,East,6,296,1776,2024-08-09
+260,Sports,Cricket Bat,West,8,357,2856,2024-04-11
+261,Electronics,Laptop,South,7,210,1470,2023-01-04
+262,Beauty,Face Cream,West,8,493,3944,2023-07-17
+263,Electronics,Headphones,South,3,109,327,2024-02-05
+264,Beauty,Perfume,North,5,162,810,2024-11-07
+265,Electronics,Mobile,South,1,22,22,2023-01-04
+266,Electronics,Mobile,West,1,149,149,2024-04-12
+267,Clothing,Jacket,West,3,73,219,2024-12-06
+268,Furniture,Sofa,South,2,327,654,2023-07-24
+269,Sports,Shoes,South,5,217,1085,2024-01-28
+270,Sports,Tennis Racket,East,8,200,1600,2024-02-21
+271,Sports,Tennis Racket,North,3,353,1059,2023-09-13
+272,Clothing,Shirt,North,6,59,354,2023-12-01
+273,Beauty,Lipstick,East,1,289,289,2024-07-13
+274,Sports,Cricket Bat,South,3,41,123,2023-07-17
+275,Clothing,Shoes,West,7,194,1358,2024-03-01
+276,Furniture,Sofa,South,9,276,2484,2023-08-30
+277,Beauty,Lipstick,West,3,66,198,2023-02-12
+278,Clothing,Shoes,East,5,436,2180,2024-12-21
+279,Electronics,Headphones,South,4,286,1144,2024-03-24
+280,Furniture,Table,South,7,454,3178,2023-01-05
+281,Beauty,Face Cream,North,4,241,964,2023-03-10
+282,Furniture,Table,North,8,240,1920,2023-06-11
+283,Clothing,Jacket,East,3,481,1443,2024-05-21
+284,Furniture,Sofa,North,2,294,588,2024-04-13
+285,Sports,Cricket Bat,West,8,218,1744,2023-03-15
+286,Furniture,Chair,West,4,445,1780,2024-08-18
+287,Beauty,Face Cream,West,5,372,1860,2024-06-06
+288,Electronics,Mobile,North,3,189,567,2024-07-13
+289,Clothing,Shoes,South,4,336,1344,2023-07-20
+290,Sports,Cricket Bat,East,4,211,844,2024-01-27
+291,Sports,Shoes,South,6,426,2556,2024-08-10
+292,Electronics,Tablet,East,1,468,468,2024-03-08
+293,Clothing,Shoes,East,8,172,1376,2024-09-06
+294,Beauty,Lipstick,North,7,330,2310,2024-04-27
+295,Sports,Cricket Bat,South,7,464,3248,2023-02-26
+296,Sports,Tennis Racket,East,2,257,514,2023-12-28
+297,Clothing,Jeans,West,9,106,954,2023-01-01
+298,Sports,Tennis Racket,East,8,344,2752,2023-07-20
+299,Furniture,Table,South,9,320,2880,2023-07-19
+300,Sports,Tennis Racket,North,8,369,2952,2024-12-28
+301,Clothing,Shirt,North,8,76,608,2023-12-20
+302,Beauty,Perfume,North,3,187,561,2023-06-24
+303,Electronics,Tablet,East,3,463,1389,2023-01-18
+304,Sports,Shoes,West,2,167,334,2023-02-16
+305,Electronics,Mobile,North,1,360,360,2024-06-06
+306,Sports,Cricket Bat,East,4,380,1520,2023-07-09
+307,Furniture,Chair,West,2,59,118,2024-06-06
+308,Beauty,Perfume,East,6,74,444,2024-08-14
+309,Clothing,Shirt,South,9,188,1692,2023-05-27
+310,Electronics,Mobile,North,5,152,760,2023-11-10
+311,Sports,Tennis Racket,South,4,371,1484,2023-11-28
+312,Electronics,Tablet,West,5,204,1020,2024-12-01
+313,Sports,Tennis Racket,South,3,139,417,2024-09-29
+314,Furniture,Sofa,South,3,282,846,2023-10-03
+315,Beauty,Shampoo,East,3,350,1050,2024-01-21
+316,Beauty,Lipstick,South,7,467,3269,2023-12-30
+317,Beauty,Face Cream,North,2,474,948,2023-07-23
+318,Electronics,Headphones,East,1,214,214,2024-06-20
+319,Electronics,Mobile,North,4,495,1980,2023-08-16
+320,Furniture,Chair,West,7,351,2457,2023-09-16
+321,Furniture,Chair,West,5,102,510,2023-04-23
+322,Beauty,Shampoo,South,4,105,420,2024-05-26
+323,Furniture,Table,West,1,213,213,2023-11-18
+324,Beauty,Face Cream,South,3,380,1140,2023-07-20
+325,Beauty,Shampoo,East,4,470,1880,2024-06-04
+326,Furniture,Table,South,2,361,722,2023-02-17
+327,Clothing,Jeans,West,2,230,460,2024-02-06
+328,Beauty,Lipstick,West,4,172,688,2024-01-08
+329,Sports,Shoes,South,3,96,288,2023-08-11
+330,Clothing,Shoes,West,3,341,1023,2024-07-03
+331,Beauty,Shampoo,North,2,218,436,2023-08-13
+332,Electronics,Mobile,South,7,421,2947,2024-04-05
+333,Beauty,Lipstick,North,7,467,3269,2023-02-09
+334,Beauty,Lipstick,East,7,38,266,2024-11-19
+335,Sports,Cricket Bat,North,8,186,1488,2024-10-29
+336,Clothing,Shirt,East,2,287,574,2023-07-17
+337,Electronics,Headphones,South,3,38,114,2023-12-11
+338,Electronics,Mobile,East,8,74,592,2024-02-19
+339,Clothing,Jeans,North,9,342,3078,2023-09-10
+340,Clothing,Shoes,West,3,222,666,2023-01-29
+341,Sports,Cricket Bat,South,1,430,430,2024-11-30
+342,Furniture,Table,West,1,347,347,2023-12-28
+343,Electronics,Tablet,South,7,99,693,2023-04-25
+344,Furniture,Chair,South,6,132,792,2023-09-03
+345,Beauty,Shampoo,South,7,97,679,2023-03-06
+346,Furniture,Bed,East,9,237,2133,2023-01-21
+347,Electronics,Tablet,South,3,137,411,2024-06-28
+348,Furniture,Sofa,South,5,172,860,2023-10-12
+349,Electronics,Laptop,South,9,313,2817,2023-05-28
+350,Sports,Shoes,East,8,357,2856,2023-05-08
+351,Beauty,Face Cream,South,4,451,1804,2024-11-11
+352,Beauty,Lipstick,South,1,161,161,2024-07-10
+353,Clothing,Shirt,North,2,315,630,2024-07-21
+354,Clothing,Jeans,East,4,428,1712,2024-07-21
+355,Electronics,Tablet,East,1,236,236,2023-12-01
+356,Sports,Cricket Bat,West,4,155,620,2024-09-05
+357,Clothing,Shoes,North,1,191,191,2023-05-12
+358,Furniture,Chair,North,4,485,1940,2024-06-04
+359,Sports,Tennis Racket,South,1,28,28,2023-05-10
+360,Electronics,Laptop,South,6,178,1068,2023-07-10
+361,Sports,Shoes,East,7,207,1449,2024-07-26
+362,Clothing,Jeans,South,2,340,680,2024-07-16
+363,Beauty,Face Cream,North,8,433,3464,2024-04-09
+364,Sports,Cricket Bat,West,5,125,625,2024-10-20
+365,Sports,Football,West,5,466,2330,2023-10-25
+366,Clothing,Jeans,West,3,58,174,2024-06-16
+367,Electronics,Mobile,East,3,358,1074,2023-09-12
+368,Sports,Football,East,8,75,600,2024-11-26
+369,Beauty,Lipstick,South,4,261,1044,2024-07-31
+370,Furniture,Bed,South,2,495,990,2023-04-09
+371,Clothing,Shoes,East,2,297,594,2024-12-13
+372,Sports,Shoes,North,5,410,2050,2023-04-29
+373,Sports,Shoes,South,7,349,2443,2023-02-07
+374,Beauty,Shampoo,West,9,108,972,2024-09-23
+375,Electronics,Headphones,South,7,70,490,2023-06-11
+376,Sports,Shoes,South,4,325,1300,2024-08-04
+377,Electronics,Tablet,West,4,368,1472,2024-10-20
+378,Furniture,Bed,North,4,364,1456,2023-07-16
+379,Electronics,Laptop,South,4,337,1348,2023-10-21
+380,Beauty,Shampoo,North,1,480,480,2023-11-24
+381,Electronics,Headphones,West,5,424,2120,2024-11-26
+382,Sports,Football,West,3,405,1215,2023-04-07
+383,Furniture,Bed,West,8,253,2024,2023-10-24
+384,Sports,Cricket Bat,East,1,217,217,2023-12-01
+385,Sports,Cricket Bat,North,1,464,464,2024-05-24
+386,Furniture,Bed,East,1,33,33,2024-10-05
+387,Sports,Shoes,East,6,148,888,2024-02-09
+388,Furniture,Chair,East,2,377,754,2024-08-29
+389,Electronics,Laptop,South,5,32,160,2023-02-26
+390,Beauty,Face Cream,West,1,175,175,2023-02-04
+391,Clothing,Shirt,East,5,482,2410,2023-03-21
+392,Furniture,Chair,East,4,144,576,2024-12-27
+393,Clothing,Shirt,East,6,359,2154,2024-03-29
+394,Sports,Football,South,1,169,169,2024-06-30
+395,Sports,Cricket Bat,West,6,307,1842,2023-04-20
+396,Furniture,Bed,North,9,147,1323,2024-11-02
+397,Sports,Tennis Racket,North,9,179,1611,2023-11-17
+398,Beauty,Face Cream,East,5,332,1660,2023-05-22
+399,Furniture,Table,South,9,174,1566,2023-11-25
+400,Clothing,Shoes,North,7,76,532,2023-06-28
+401,Furniture,Bed,South,3,208,624,2024-02-27
+402,Electronics,Mobile,West,3,128,384,2023-12-07
+403,Beauty,Face Cream,North,5,212,1060,2024-09-03
+404,Electronics,Mobile,West,1,170,170,2023-11-16
+405,Sports,Cricket Bat,South,5,490,2450,2023-10-27
+406,Electronics,Headphones,West,9,323,2907,2023-01-15
+407,Sports,Shoes,South,9,322,2898,2023-05-20
+408,Clothing,Shirt,East,7,458,3206,2023-08-17
+409,Furniture,Chair,East,4,181,724,2023-08-21
+410,Furniture,Table,East,9,214,1926,2024-04-01
+411,Sports,Football,South,3,226,678,2024-10-17
+412,Clothing,Jeans,North,7,427,2989,2024-03-10
+413,Clothing,Shirt,North,3,261,783,2024-05-31
+414,Sports,Football,North,8,424,3392,2024-02-01
+415,Furniture,Chair,South,4,22,88,2024-04-14
+416,Sports,Football,West,5,495,2475,2023-11-05
+417,Clothing,Shoes,South,3,156,468,2024-04-15
+418,Electronics,Headphones,East,3,70,210,2023-09-25
+419,Beauty,Lipstick,West,8,398,3184,2023-05-03
+420,Clothing,Jacket,West,7,271,1897,2024-02-29
+421,Sports,Shoes,East,9,75,675,2023-02-22
+422,Furniture,Table,West,5,412,2060,2023-02-20
+423,Electronics,Laptop,North,5,336,1680,2023-11-05
+424,Furniture,Table,North,7,196,1372,2023-07-19
+425,Furniture,Bed,West,6,424,2544,2023-07-20
+426,Sports,Tennis Racket,West,4,262,1048,2023-06-29
+427,Furniture,Table,East,4,109,436,2023-12-07
+428,Sports,Football,West,1,350,350,2024-03-29
+429,Clothing,Shirt,North,1,139,139,2024-03-07
+430,Clothing,Shoes,South,5,459,2295,2024-03-31
+431,Furniture,Bed,West,8,23,184,2024-06-22
+432,Sports,Tennis Racket,South,1,246,246,2023-07-05
+433,Electronics,Tablet,West,3,390,1170,2023-03-23
+434,Electronics,Laptop,West,8,22,176,2023-12-15
+435,Beauty,Lipstick,South,9,354,3186,2024-06-19
+436,Sports,Cricket Bat,North,7,181,1267,2023-07-27
+437,Furniture,Bed,North,3,321,963,2023-04-19
+438,Beauty,Face Cream,North,9,377,3393,2023-06-07
+439,Sports,Tennis Racket,South,6,136,816,2023-05-23
+440,Furniture,Table,East,6,105,630,2023-11-11
+441,Furniture,Table,South,7,464,3248,2024-11-25
+442,Electronics,Laptop,North,6,490,2940,2023-04-17
+443,Furniture,Sofa,East,6,173,1038,2024-12-08
+444,Clothing,Shirt,South,7,129,903,2023-06-20
+445,Furniture,Table,West,5,209,1045,2024-12-31
+446,Electronics,Mobile,West,7,335,2345,2024-05-03
+447,Beauty,Shampoo,North,1,238,238,2024-10-11
+448,Clothing,Jacket,North,7,298,2086,2023-06-10
+449,Electronics,Mobile,North,8,24,192,2024-03-24
+450,Beauty,Shampoo,West,1,403,403,2024-11-06
+451,Furniture,Bed,West,6,300,1800,2023-01-30
+452,Clothing,Shoes,East,3,232,696,2024-04-21
+453,Clothing,Jacket,South,2,368,736,2024-03-21
+454,Furniture,Sofa,North,7,358,2506,2023-06-20
+455,Furniture,Sofa,North,5,53,265,2024-02-06
+456,Sports,Football,South,7,71,497,2024-10-02
+457,Furniture,Chair,South,5,491,2455,2023-08-26
+458,Sports,Cricket Bat,East,8,482,3856,2024-08-31
+459,Sports,Football,East,2,387,774,2023-07-19
+460,Electronics,Tablet,East,9,76,684,2024-03-29
+461,Beauty,Lipstick,South,1,421,421,2023-11-26
+462,Furniture,Sofa,East,4,107,428,2024-09-04
+463,Beauty,Shampoo,East,9,460,4140,2023-08-24
+464,Electronics,Headphones,West,8,224,1792,2023-07-03
+465,Clothing,Jacket,East,1,31,31,2023-02-23
+466,Sports,Shoes,East,4,82,328,2023-09-10
+467,Sports,Tennis Racket,West,7,247,1729,2023-04-20
+468,Electronics,Tablet,West,1,129,129,2024-06-03
+469,Electronics,Tablet,East,4,379,1516,2023-07-31
+470,Electronics,Laptop,East,8,224,1792,2023-09-06
+471,Electronics,Headphones,North,4,230,920,2024-07-14
+472,Furniture,Table,North,5,142,710,2023-02-11
+473,Electronics,Tablet,North,2,199,398,2024-12-27
+474,Furniture,Bed,West,2,380,760,2023-06-09
+475,Electronics,Headphones,West,5,440,2200,2024-08-18
+476,Electronics,Mobile,North,8,344,2752,2023-03-05
+477,Clothing,Shoes,South,9,387,3483,2024-12-20
+478,Beauty,Shampoo,East,6,278,1668,2023-07-07
+479,Sports,Tennis Racket,East,6,142,852,2023-11-13
+480,Furniture,Sofa,North,4,340,1360,2023-08-08
+481,Sports,Shoes,West,9,41,369,2024-01-25
+482,Electronics,Laptop,East,8,105,840,2024-08-20
+483,Beauty,Face Cream,North,2,192,384,2024-05-19
+484,Clothing,Jeans,North,1,209,209,2024-10-17
+485,Beauty,Perfume,North,8,486,3888,2023-06-20
+486,Furniture,Bed,East,9,438,3942,2023-05-11
+487,Beauty,Shampoo,West,5,84,420,2023-08-26
+488,Sports,Tennis Racket,North,6,149,894,2023-02-03
+489,Beauty,Perfume,East,6,40,240,2023-07-06
+490,Electronics,Tablet,South,9,64,576,2023-12-26
+491,Electronics,Mobile,East,9,476,4284,2023-04-23
+492,Clothing,Jeans,West,2,460,920,2024-06-25
+493,Sports,Football,South,3,222,666,2023-07-17
+494,Sports,Tennis Racket,South,6,366,2196,2024-03-12
+495,Beauty,Face Cream,West,1,221,221,2023-04-06
+496,Furniture,Bed,East,1,378,378,2024-09-16
+497,Beauty,Shampoo,South,7,261,1827,2024-11-11
+498,Clothing,Jeans,East,3,95,285,2024-02-17
+499,Clothing,Shirt,South,1,383,383,2023-09-02
+500,Clothing,Shoes,North,8,155,1240,2023-01-07
+501,Clothing,Jacket,North,6,297,1782,2024-08-30
+502,Beauty,Perfume,West,8,139,1112,2024-05-19
+503,Furniture,Sofa,West,7,228,1596,2023-11-21
+504,Furniture,Chair,North,9,372,3348,2023-11-06
+505,Sports,Tennis Racket,South,7,203,1421,2024-08-20
+506,Sports,Tennis Racket,East,5,312,1560,2024-11-03
+507,Clothing,Shoes,North,4,387,1548,2023-02-20
+508,Electronics,Headphones,East,9,228,2052,2023-08-12
+509,Electronics,Laptop,South,3,111,333,2023-10-30
+510,Beauty,Lipstick,West,3,138,414,2024-02-27
+511,Sports,Shoes,East,1,453,453,2023-04-01
+512,Sports,Football,East,2,48,96,2023-03-19
+513,Furniture,Table,North,5,297,1485,2023-01-05
+514,Clothing,Jeans,North,7,101,707,2024-09-18
+515,Sports,Football,South,5,214,1070,2023-03-22
+516,Clothing,Jacket,South,2,403,806,2024-10-17
+517,Furniture,Table,East,8,396,3168,2023-07-08
+518,Sports,Football,South,2,220,440,2024-02-27
+519,Furniture,Chair,North,7,27,189,2024-01-09
+520,Clothing,Jeans,North,6,289,1734,2024-08-22
+521,Furniture,Table,North,2,182,364,2023-10-06
+522,Beauty,Shampoo,North,1,238,238,2023-02-16
+523,Clothing,Jeans,North,1,150,150,2024-09-03
+524,Furniture,Bed,East,3,28,84,2023-11-01
+525,Electronics,Headphones,North,3,305,915,2023-03-30
+526,Furniture,Bed,East,6,91,546,2023-07-17
+527,Furniture,Table,South,4,163,652,2024-09-10
+528,Beauty,Shampoo,West,7,341,2387,2024-02-14
+529,Electronics,Mobile,North,2,158,316,2023-03-22
+530,Furniture,Bed,West,9,437,3933,2024-07-30
+531,Beauty,Perfume,South,7,47,329,2024-11-10
+532,Electronics,Headphones,East,9,117,1053,2023-01-03
+533,Sports,Shoes,South,3,328,984,2024-12-27
+534,Electronics,Laptop,West,5,330,1650,2024-10-06
+535,Clothing,Shirt,North,6,482,2892,2023-07-28
+536,Beauty,Lipstick,South,2,447,894,2024-07-31
+537,Electronics,Mobile,West,8,381,3048,2023-05-10
+538,Clothing,Shoes,North,5,420,2100,2023-12-22
+539,Sports,Tennis Racket,South,3,363,1089,2023-12-01
+540,Electronics,Mobile,East,3,293,879,2023-02-16
+541,Clothing,Shirt,North,7,122,854,2023-01-01
+542,Beauty,Lipstick,South,8,247,1976,2024-11-27
+543,Sports,Football,East,3,417,1251,2024-07-09
+544,Electronics,Headphones,West,1,190,190,2023-07-16
+545,Beauty,Perfume,North,2,366,732,2023-05-31
+546,Furniture,Chair,West,3,357,1071,2024-04-09
+547,Sports,Cricket Bat,North,6,305,1830,2023-07-21
+548,Clothing,Shoes,East,5,408,2040,2024-08-31
+549,Sports,Tennis Racket,East,1,169,169,2024-03-26
+550,Furniture,Chair,North,8,336,2688,2023-03-22
+551,Electronics,Laptop,South,2,300,600,2023-08-31
+552,Sports,Tennis Racket,East,6,261,1566,2023-12-23
+553,Electronics,Tablet,North,9,217,1953,2023-10-25
+554,Furniture,Table,North,4,294,1176,2024-04-09
+555,Clothing,Jacket,South,4,323,1292,2024-02-08
+556,Furniture,Bed,East,7,76,532,2023-04-24
+557,Electronics,Tablet,South,9,62,558,2023-04-02
+558,Sports,Cricket Bat,South,4,463,1852,2024-04-17
+559,Furniture,Sofa,East,8,429,3432,2023-01-13
+560,Clothing,Jacket,South,3,424,1272,2024-07-11
+561,Beauty,Perfume,West,1,468,468,2023-04-23
+562,Sports,Cricket Bat,North,4,37,148,2023-01-21
+563,Beauty,Lipstick,West,2,487,974,2023-06-16
+564,Beauty,Face Cream,East,7,215,1505,2024-05-05
+565,Clothing,Jeans,North,6,313,1878,2023-09-04
+566,Clothing,Shoes,South,5,351,1755,2023-09-13
+567,Electronics,Headphones,West,9,428,3852,2024-02-01
+568,Electronics,Headphones,North,3,115,345,2024-11-10
+569,Beauty,Shampoo,North,1,390,390,2023-02-09
+570,Beauty,Shampoo,West,6,67,402,2024-06-05
+571,Beauty,Shampoo,West,4,107,428,2024-08-29
+572,Beauty,Shampoo,South,4,479,1916,2023-01-19
+573,Sports,Football,North,6,41,246,2023-07-08
+574,Furniture,Table,East,6,416,2496,2024-08-06
+575,Sports,Cricket Bat,West,2,200,400,2024-05-30
+576,Beauty,Lipstick,North,7,362,2534,2024-03-12
+577,Furniture,Table,North,5,306,1530,2024-05-02
+578,Beauty,Shampoo,East,1,477,477,2023-11-13
+579,Sports,Football,West,8,24,192,2024-10-03
+580,Furniture,Bed,East,5,477,2385,2024-01-22
+581,Electronics,Headphones,West,8,459,3672,2023-12-14
+582,Furniture,Chair,East,1,210,210,2023-04-05
+583,Clothing,Shoes,South,6,302,1812,2024-09-29
+584,Beauty,Lipstick,East,5,299,1495,2023-05-22
+585,Furniture,Table,East,7,304,2128,2023-09-24
+586,Clothing,Shirt,West,1,483,483,2023-12-28
+587,Beauty,Lipstick,North,5,336,1680,2024-05-02
+588,Beauty,Perfume,North,9,264,2376,2023-12-12
+589,Furniture,Bed,East,9,193,1737,2024-07-17
+590,Clothing,Shoes,South,9,192,1728,2024-11-29
+591,Beauty,Shampoo,East,2,77,154,2023-07-16
+592,Furniture,Chair,South,7,23,161,2024-10-24
+593,Electronics,Laptop,North,4,91,364,2023-11-04
+594,Furniture,Bed,East,1,381,381,2023-03-16
+595,Electronics,Headphones,East,9,97,873,2024-04-08
+596,Beauty,Shampoo,East,2,227,454,2023-06-08
+597,Beauty,Shampoo,East,7,472,3304,2023-11-28
+598,Sports,Football,East,3,387,1161,2023-01-19
+599,Clothing,Jeans,South,4,114,456,2024-07-10
+600,Electronics,Headphones,North,2,190,380,2023-05-28
+601,Sports,Tennis Racket,West,5,42,210,2023-12-20
+602,Sports,Shoes,West,8,45,360,2023-06-29
+603,Electronics,Headphones,South,7,94,658,2023-07-28
+604,Sports,Football,East,1,141,141,2023-01-21
+605,Sports,Football,East,5,453,2265,2023-10-29
+606,Electronics,Tablet,South,5,286,1430,2024-04-13
+607,Electronics,Mobile,West,1,273,273,2024-05-05
+608,Sports,Tennis Racket,South,9,392,3528,2023-04-29
+609,Beauty,Face Cream,North,2,288,576,2024-01-30
+610,Furniture,Bed,South,8,126,1008,2024-11-03
+611,Electronics,Mobile,North,9,313,2817,2023-11-13
+612,Electronics,Laptop,North,3,490,1470,2024-08-20
+613,Beauty,Face Cream,East,9,65,585,2023-03-08
+614,Furniture,Chair,North,7,304,2128,2024-03-14
+615,Electronics,Mobile,West,7,424,2968,2023-01-04
+616,Electronics,Headphones,West,3,422,1266,2024-03-03
+617,Furniture,Chair,West,4,491,1964,2023-02-19
+618,Furniture,Bed,East,3,436,1308,2024-11-19
+619,Clothing,Jeans,East,9,281,2529,2023-11-14
+620,Clothing,Jacket,West,6,191,1146,2024-07-17
+621,Beauty,Perfume,West,6,348,2088,2024-07-12
+622,Beauty,Lipstick,West,1,214,214,2024-10-08
+623,Furniture,Bed,South,5,142,710,2023-12-21
+624,Furniture,Bed,West,6,300,1800,2023-06-04
+625,Electronics,Laptop,South,3,337,1011,2024-07-09
+626,Clothing,Shoes,West,5,134,670,2024-09-18
+627,Electronics,Mobile,South,2,157,314,2023-12-11
+628,Beauty,Perfume,East,9,258,2322,2024-02-25
+629,Beauty,Lipstick,East,2,157,314,2023-06-12
+630,Clothing,Shirt,South,8,250,2000,2024-06-11
+631,Furniture,Table,North,4,166,664,2024-12-20
+632,Clothing,Jeans,West,7,200,1400,2024-02-13
+633,Sports,Cricket Bat,North,4,282,1128,2024-03-30
+634,Electronics,Headphones,East,2,488,976,2024-09-16
+635,Clothing,Shoes,North,6,34,204,2023-09-07
+636,Electronics,Tablet,North,5,367,1835,2024-09-21
+637,Beauty,Perfume,North,2,81,162,2023-06-12
+638,Clothing,Jeans,North,3,379,1137,2024-02-10
+639,Clothing,Shirt,West,6,128,768,2023-10-09
+640,Clothing,Jeans,South,4,428,1712,2024-02-28
+641,Furniture,Sofa,North,1,163,163,2023-07-22
+642,Sports,Cricket Bat,South,9,39,351,2023-05-19
+643,Clothing,Jacket,East,1,455,455,2023-11-21
+644,Beauty,Face Cream,North,6,409,2454,2023-06-06
+645,Beauty,Shampoo,West,9,198,1782,2024-10-03
+646,Sports,Shoes,North,9,196,1764,2023-10-09
+647,Electronics,Mobile,South,6,82,492,2023-03-27
+648,Furniture,Chair,East,5,351,1755,2023-10-14
+649,Furniture,Table,West,6,301,1806,2024-08-31
+650,Beauty,Shampoo,West,1,158,158,2023-10-06
+651,Sports,Tennis Racket,North,1,32,32,2024-02-16
+652,Clothing,Jacket,East,6,238,1428,2024-04-17
+653,Clothing,Shoes,East,8,214,1712,2023-04-30
+654,Sports,Tennis Racket,West,1,366,366,2024-01-06
+655,Furniture,Table,North,7,188,1316,2024-02-17
+656,Sports,Tennis Racket,East,1,138,138,2024-10-20
+657,Beauty,Lipstick,West,2,348,696,2024-08-25
+658,Sports,Cricket Bat,East,1,118,118,2024-06-12
+659,Clothing,Jeans,South,2,98,196,2024-07-21
+660,Electronics,Laptop,North,9,404,3636,2023-09-24
+661,Furniture,Bed,North,5,304,1520,2023-11-18
+662,Electronics,Mobile,South,1,303,303,2023-01-30
+663,Beauty,Lipstick,West,5,81,405,2024-12-31
+664,Clothing,Shoes,East,3,138,414,2024-03-25
+665,Sports,Tennis Racket,South,4,441,1764,2024-08-16
+666,Clothing,Shoes,North,6,105,630,2023-06-29
+667,Electronics,Mobile,West,4,307,1228,2024-09-29
+668,Clothing,Jeans,West,8,85,680,2024-08-10
+669,Clothing,Jacket,East,5,111,555,2024-06-28
+670,Sports,Tennis Racket,South,1,95,95,2023-03-31
+671,Electronics,Mobile,West,9,125,1125,2024-05-09
+672,Beauty,Lipstick,East,4,164,656,2024-02-11
+673,Furniture,Chair,West,1,238,238,2024-08-11
+674,Furniture,Sofa,North,2,181,362,2024-02-04
+675,Beauty,Perfume,South,1,185,185,2024-07-03
+676,Clothing,Shoes,East,4,434,1736,2023-09-24
+677,Sports,Tennis Racket,East,9,392,3528,2023-06-18
+678,Clothing,Jacket,South,8,370,2960,2024-08-12
+679,Electronics,Laptop,South,2,235,470,2024-09-26
+680,Electronics,Laptop,East,3,345,1035,2023-11-20
+681,Clothing,Shoes,South,4,277,1108,2023-02-20
+682,Furniture,Table,West,6,78,468,2024-04-10
+683,Electronics,Laptop,East,1,249,249,2023-11-22
+684,Electronics,Headphones,North,2,159,318,2024-03-04
+685,Beauty,Shampoo,East,2,482,964,2024-12-21
+686,Beauty,Lipstick,North,4,429,1716,2023-10-22
+687,Electronics,Mobile,East,4,127,508,2023-04-29
+688,Electronics,Headphones,North,6,320,1920,2024-02-28
+689,Furniture,Chair,North,4,54,216,2023-12-13
+690,Sports,Cricket Bat,South,8,476,3808,2023-06-02
+691,Furniture,Chair,South,2,450,900,2024-09-25
+692,Furniture,Chair,West,4,317,1268,2023-07-08
+693,Furniture,Bed,North,1,259,259,2023-06-07
+694,Beauty,Shampoo,West,6,270,1620,2024-04-15
+695,Furniture,Chair,North,1,267,267,2023-02-14
+696,Electronics,Tablet,East,4,308,1232,2024-07-01
+697,Electronics,Tablet,North,6,175,1050,2024-10-27
+698,Beauty,Perfume,West,2,36,72,2023-08-10
+699,Clothing,Jacket,West,2,280,560,2023-07-22
+700,Clothing,Shirt,South,9,88,792,2023-03-17
+701,Electronics,Tablet,South,4,151,604,2023-05-06
+702,Sports,Football,North,7,162,1134,2024-04-06
+703,Sports,Tennis Racket,North,6,121,726,2024-02-06
+704,Beauty,Shampoo,West,5,168,840,2024-12-16
+705,Electronics,Mobile,East,5,181,905,2023-07-12
+706,Sports,Tennis Racket,North,1,337,337,2023-01-23
+707,Beauty,Lipstick,South,9,29,261,2024-06-15
+708,Furniture,Table,East,3,232,696,2024-03-18
+709,Clothing,Jacket,North,8,425,3400,2023-10-23
+710,Electronics,Headphones,West,1,330,330,2023-03-08
+711,Beauty,Shampoo,South,2,322,644,2024-09-17
+712,Furniture,Bed,South,4,111,444,2024-06-18
+713,Electronics,Tablet,South,2,57,114,2024-07-09
+714,Clothing,Jacket,South,5,444,2220,2023-08-22
+715,Electronics,Laptop,North,8,223,1784,2023-11-08
+716,Clothing,Shirt,South,2,114,228,2023-05-02
+717,Clothing,Shoes,East,2,385,770,2024-01-29
+718,Clothing,Shoes,West,6,257,1542,2023-11-02
+719,Sports,Cricket Bat,East,3,494,1482,2023-08-11
+720,Clothing,Shoes,West,3,328,984,2024-09-18
+721,Beauty,Shampoo,North,5,160,800,2024-07-16
+722,Furniture,Chair,South,9,398,3582,2024-03-13
+723,Electronics,Headphones,East,7,96,672,2024-07-22
+724,Electronics,Tablet,West,7,454,3178,2023-06-19
+725,Electronics,Tablet,South,1,276,276,2023-03-24
+726,Electronics,Tablet,West,4,102,408,2023-12-22
+727,Electronics,Mobile,North,7,304,2128,2023-05-23
+728,Sports,Football,East,2,89,178,2024-01-19
+729,Clothing,Shoes,East,5,318,1590,2024-09-09
+730,Beauty,Lipstick,South,3,369,1107,2024-06-23
+731,Beauty,Perfume,North,1,71,71,2023-05-04
+732,Clothing,Jeans,South,8,383,3064,2024-12-25
+733,Furniture,Bed,North,5,182,910,2024-07-21
+734,Clothing,Jacket,North,3,89,267,2023-06-19
+735,Electronics,Laptop,South,7,180,1260,2023-11-08
+736,Clothing,Shirt,South,9,324,2916,2023-08-24
+737,Furniture,Bed,South,5,306,1530,2023-09-15
+738,Furniture,Chair,West,9,119,1071,2024-02-05
+739,Electronics,Mobile,West,4,224,896,2024-03-29
+740,Electronics,Headphones,South,8,345,2760,2024-03-09
+741,Clothing,Jacket,East,9,478,4302,2024-10-15
+742,Beauty,Shampoo,East,5,405,2025,2023-08-22
+743,Clothing,Shirt,East,6,264,1584,2023-09-17
+744,Sports,Shoes,South,8,173,1384,2023-11-04
+745,Sports,Cricket Bat,North,7,135,945,2024-04-03
+746,Clothing,Jeans,North,6,39,234,2023-09-21
+747,Clothing,Shoes,South,5,494,2470,2023-01-24
+748,Sports,Cricket Bat,South,9,284,2556,2024-03-01
+749,Electronics,Laptop,East,6,61,366,2023-04-27
+750,Electronics,Mobile,North,1,127,127,2024-12-19
+751,Beauty,Face Cream,South,4,423,1692,2024-12-21
+752,Clothing,Shirt,South,8,316,2528,2024-11-05
+753,Clothing,Shirt,West,8,205,1640,2024-06-22
+754,Clothing,Shoes,North,1,150,150,2024-12-03
+755,Beauty,Shampoo,East,7,481,3367,2023-11-25
+756,Sports,Cricket Bat,West,1,169,169,2024-04-21
+757,Sports,Cricket Bat,South,9,157,1413,2023-03-12
+758,Furniture,Table,North,8,227,1816,2023-11-05
+759,Clothing,Jeans,West,7,353,2471,2023-12-07
+760,Electronics,Mobile,North,8,363,2904,2023-04-24
+761,Sports,Cricket Bat,North,7,410,2870,2024-04-05
+762,Furniture,Bed,West,1,461,461,2024-11-19
+763,Sports,Tennis Racket,East,9,402,3618,2023-11-19
+764,Clothing,Jeans,North,9,190,1710,2024-02-18
+765,Electronics,Mobile,West,7,159,1113,2024-07-18
+766,Beauty,Shampoo,North,7,254,1778,2024-03-08
+767,Clothing,Shoes,West,9,361,3249,2024-03-30
+768,Beauty,Lipstick,South,8,235,1880,2023-09-12
+769,Furniture,Sofa,East,1,310,310,2023-02-04
+770,Sports,Shoes,East,6,239,1434,2023-02-02
+771,Beauty,Shampoo,South,7,101,707,2024-07-09
+772,Beauty,Face Cream,North,6,281,1686,2023-04-08
+773,Clothing,Shoes,West,9,346,3114,2023-08-22
+774,Beauty,Shampoo,West,6,48,288,2024-03-16
+775,Sports,Football,South,6,182,1092,2024-04-28
+776,Clothing,Jacket,West,6,173,1038,2024-03-06
+777,Furniture,Sofa,North,7,438,3066,2023-10-01
+778,Beauty,Shampoo,North,9,25,225,2023-11-16
+779,Beauty,Lipstick,West,5,115,575,2024-07-21
+780,Furniture,Table,North,7,349,2443,2024-03-13
+781,Electronics,Headphones,West,9,114,1026,2024-02-02
+782,Clothing,Shoes,East,5,70,350,2024-02-04
+783,Sports,Cricket Bat,West,8,258,2064,2024-07-20
+784,Clothing,Jeans,South,3,144,432,2023-06-25
+785,Furniture,Sofa,North,4,388,1552,2024-09-05
+786,Beauty,Face Cream,North,2,256,512,2023-03-07
+787,Electronics,Laptop,East,8,334,2672,2023-04-09
+788,Sports,Tennis Racket,East,8,460,3680,2023-02-10
+789,Sports,Shoes,North,7,68,476,2024-03-28
+790,Beauty,Lipstick,West,8,311,2488,2023-03-31
+791,Electronics,Laptop,East,7,44,308,2023-12-21
+792,Sports,Cricket Bat,East,5,453,2265,2024-11-08
+793,Furniture,Chair,North,3,241,723,2024-11-14
+794,Clothing,Jacket,East,4,303,1212,2024-09-15
+795,Clothing,Shoes,South,3,378,1134,2024-01-02
+796,Clothing,Jeans,South,8,33,264,2024-03-04
+797,Electronics,Mobile,East,4,157,628,2023-01-25
+798,Beauty,Shampoo,West,2,136,272,2023-05-12
+799,Sports,Cricket Bat,North,4,135,540,2024-02-24
+800,Sports,Tennis Racket,West,5,55,275,2023-05-06
+801,Sports,Football,East,1,238,238,2024-10-15
+802,Sports,Cricket Bat,East,9,212,1908,2024-09-05
+803,Electronics,Laptop,North,1,480,480,2024-12-31
+804,Sports,Tennis Racket,North,5,133,665,2024-08-09
+805,Clothing,Jeans,East,7,236,1652,2023-09-09
+806,Sports,Shoes,North,1,203,203,2024-09-15
+807,Sports,Football,North,2,69,138,2023-05-26
+808,Electronics,Headphones,West,4,66,264,2023-05-25
+809,Electronics,Laptop,South,8,410,3280,2023-04-06
+810,Furniture,Table,North,5,478,2390,2024-02-10
+811,Clothing,Jeans,West,6,248,1488,2024-01-26
+812,Clothing,Shirt,North,3,111,333,2023-07-22
+813,Beauty,Lipstick,East,3,192,576,2024-01-26
+814,Clothing,Jeans,North,3,341,1023,2023-06-28
+815,Furniture,Bed,North,6,444,2664,2024-04-15
+816,Clothing,Jeans,East,8,442,3536,2024-05-08
+817,Electronics,Laptop,North,4,422,1688,2023-01-22
+818,Sports,Shoes,West,4,480,1920,2023-08-23
+819,Beauty,Perfume,East,6,215,1290,2024-06-02
+820,Beauty,Shampoo,North,4,479,1916,2024-11-04
+821,Sports,Shoes,North,9,95,855,2024-02-29
+822,Clothing,Shirt,North,9,314,2826,2024-08-27
+823,Beauty,Perfume,North,2,162,324,2023-05-16
+824,Sports,Shoes,West,1,392,392,2023-05-06
+825,Clothing,Jacket,South,5,110,550,2023-11-09
+826,Sports,Football,South,4,109,436,2024-03-11
+827,Clothing,Jeans,North,4,22,88,2024-11-01
+828,Clothing,Shirt,North,9,395,3555,2024-08-15
+829,Sports,Shoes,North,9,283,2547,2024-06-20
+830,Beauty,Lipstick,East,2,246,492,2023-01-03
+831,Sports,Tennis Racket,North,3,350,1050,2024-02-21
+832,Electronics,Mobile,East,8,190,1520,2023-01-11
+833,Sports,Tennis Racket,West,2,266,532,2024-12-06
+834,Clothing,Jeans,South,8,311,2488,2023-01-01
+835,Clothing,Shoes,East,6,260,1560,2023-03-17
+836,Sports,Cricket Bat,West,3,407,1221,2024-05-22
+837,Clothing,Jacket,North,8,208,1664,2023-05-18
+838,Furniture,Chair,East,4,60,240,2024-12-06
+839,Sports,Shoes,North,1,226,226,2024-07-13
+840,Sports,Cricket Bat,West,9,284,2556,2023-10-21
+841,Sports,Cricket Bat,North,3,202,606,2024-02-02
+842,Sports,Tennis Racket,East,1,431,431,2023-03-24
+843,Furniture,Table,South,7,216,1512,2024-01-06
+844,Sports,Shoes,North,9,442,3978,2024-04-07
+845,Beauty,Face Cream,South,2,297,594,2024-09-15
+846,Sports,Tennis Racket,West,7,281,1967,2024-10-16
+847,Electronics,Tablet,East,2,29,58,2024-02-15
+848,Clothing,Jacket,South,5,406,2030,2023-03-09
+849,Beauty,Perfume,North,9,442,3978,2023-06-25
+850,Beauty,Lipstick,West,6,58,348,2024-10-02
+851,Furniture,Bed,West,6,93,558,2024-06-15
+852,Clothing,Shirt,North,7,379,2653,2023-02-14
+853,Sports,Shoes,South,8,454,3632,2024-04-21
+854,Sports,Shoes,East,1,49,49,2024-10-17
+855,Beauty,Perfume,South,5,342,1710,2024-03-28
+856,Sports,Football,West,5,415,2075,2023-05-24
+857,Clothing,Jacket,East,7,160,1120,2023-07-03
+858,Sports,Football,North,6,352,2112,2024-08-18
+859,Beauty,Face Cream,West,8,341,2728,2024-12-02
+860,Clothing,Shoes,West,1,304,304,2024-09-15
+861,Clothing,Jeans,West,2,254,508,2023-02-16
+862,Electronics,Tablet,North,7,131,917,2024-04-03
+863,Sports,Football,South,1,349,349,2024-02-08
+864,Furniture,Sofa,West,6,383,2298,2024-03-25
+865,Furniture,Chair,South,5,408,2040,2024-12-07
+866,Electronics,Laptop,North,9,182,1638,2023-11-10
+867,Clothing,Jacket,South,1,130,130,2024-11-29
+868,Clothing,Shirt,West,8,465,3720,2023-11-12
+869,Furniture,Bed,East,3,65,195,2023-12-26
+870,Sports,Cricket Bat,West,5,475,2375,2024-06-05
+871,Sports,Cricket Bat,East,5,321,1605,2023-05-09
+872,Furniture,Chair,South,2,359,718,2023-04-21
+873,Electronics,Laptop,West,1,103,103,2024-10-20
+874,Electronics,Headphones,East,8,297,2376,2024-03-28
+875,Clothing,Jeans,South,7,468,3276,2024-03-21
+876,Electronics,Headphones,West,9,311,2799,2024-12-03
+877,Electronics,Headphones,South,2,69,138,2024-10-04
+878,Beauty,Shampoo,South,6,285,1710,2024-04-05
+879,Sports,Shoes,South,2,375,750,2023-08-25
+880,Electronics,Headphones,West,5,252,1260,2023-03-04
+881,Furniture,Table,South,5,198,990,2023-06-16
+882,Sports,Cricket Bat,East,2,211,422,2023-04-19
+883,Beauty,Shampoo,East,3,426,1278,2024-07-21
+884,Furniture,Sofa,East,6,134,804,2024-03-09
+885,Clothing,Jeans,West,9,294,2646,2023-12-14
+886,Beauty,Perfume,South,6,265,1590,2024-07-13
+887,Electronics,Headphones,North,8,43,344,2023-06-11
+888,Furniture,Bed,East,1,406,406,2024-01-31
+889,Sports,Tennis Racket,West,6,124,744,2024-07-03
+890,Electronics,Tablet,West,2,396,792,2024-01-30
+891,Electronics,Headphones,East,2,371,742,2024-10-28
+892,Furniture,Sofa,West,2,254,508,2024-05-09
+893,Furniture,Chair,South,7,107,749,2023-03-21
+894,Electronics,Mobile,East,6,475,2850,2024-06-07
+895,Electronics,Mobile,North,8,152,1216,2023-09-15
+896,Beauty,Perfume,West,4,194,776,2024-08-19
+897,Sports,Tennis Racket,West,5,453,2265,2024-01-08
+898,Clothing,Shoes,West,6,294,1764,2023-07-20
+899,Furniture,Bed,North,4,481,1924,2024-12-17
+900,Sports,Cricket Bat,North,8,448,3584,2023-12-17
+901,Sports,Cricket Bat,West,8,481,3848,2023-05-22
+902,Clothing,Shirt,West,2,386,772,2024-07-30
+903,Clothing,Jeans,South,5,56,280,2023-10-21
+904,Furniture,Table,North,9,453,4077,2024-05-13
+905,Furniture,Bed,East,3,499,1497,2023-07-29
+906,Clothing,Shirt,West,3,260,780,2023-07-28
+907,Sports,Shoes,South,7,385,2695,2023-02-23
+908,Beauty,Lipstick,South,8,29,232,2024-12-21
+909,Clothing,Shirt,West,3,406,1218,2024-02-24
+910,Furniture,Bed,North,8,285,2280,2024-07-20
+911,Sports,Football,South,3,474,1422,2024-01-30
+912,Sports,Cricket Bat,East,1,54,54,2023-05-24
+913,Sports,Shoes,North,8,479,3832,2023-07-01
+914,Electronics,Tablet,North,7,84,588,2024-09-02
+915,Furniture,Sofa,East,9,101,909,2024-12-21
+916,Electronics,Headphones,West,9,105,945,2024-11-12
+917,Clothing,Jeans,South,8,462,3696,2024-04-29
+918,Clothing,Jacket,East,1,273,273,2023-11-04
+919,Beauty,Shampoo,West,1,429,429,2023-04-13
+920,Clothing,Jacket,South,9,139,1251,2023-08-25
+921,Beauty,Perfume,North,9,110,990,2023-02-18
+922,Furniture,Table,West,8,149,1192,2023-06-23
+923,Sports,Football,North,5,47,235,2024-03-30
+924,Clothing,Jacket,West,9,229,2061,2023-07-08
+925,Beauty,Perfume,East,1,195,195,2023-05-11
+926,Clothing,Jeans,West,9,370,3330,2024-04-27
+927,Clothing,Shoes,West,7,71,497,2023-05-11
+928,Sports,Tennis Racket,North,8,238,1904,2024-03-05
+929,Sports,Tennis Racket,North,7,382,2674,2024-06-12
+930,Beauty,Shampoo,West,7,183,1281,2024-01-03
+931,Furniture,Chair,West,4,169,676,2023-11-28
+932,Electronics,Headphones,East,8,58,464,2023-06-17
+933,Beauty,Shampoo,East,5,227,1135,2024-08-10
+934,Sports,Cricket Bat,East,5,271,1355,2023-04-13
+935,Furniture,Chair,South,7,311,2177,2023-02-27
+936,Clothing,Jacket,West,3,78,234,2023-11-12
+937,Clothing,Shirt,South,7,452,3164,2024-07-18
+938,Electronics,Tablet,West,2,168,336,2024-12-06
+939,Sports,Tennis Racket,North,2,459,918,2023-11-03
+940,Furniture,Table,East,8,352,2816,2024-02-04
+941,Beauty,Face Cream,West,2,341,682,2023-04-26
+942,Furniture,Bed,East,8,465,3720,2024-10-07
+943,Beauty,Lipstick,North,6,462,2772,2024-04-13
+944,Electronics,Tablet,North,6,255,1530,2024-04-18
+945,Clothing,Shirt,East,1,207,207,2024-08-17
+946,Beauty,Perfume,East,3,423,1269,2023-05-05
+947,Clothing,Shirt,West,1,224,224,2024-04-10
+948,Beauty,Face Cream,South,9,416,3744,2024-05-22
+949,Clothing,Shirt,North,2,410,820,2023-11-04
+950,Furniture,Table,South,1,338,338,2023-04-15
+951,Clothing,Shirt,West,2,266,532,2024-11-16
+952,Clothing,Jeans,South,5,134,670,2023-01-13
+953,Furniture,Bed,East,2,23,46,2024-01-16
+954,Beauty,Perfume,North,9,175,1575,2024-12-16
+955,Electronics,Mobile,West,1,292,292,2024-01-30
+956,Clothing,Shirt,South,7,167,1169,2023-10-03
+957,Sports,Tennis Racket,North,6,319,1914,2024-09-04
+958,Sports,Football,West,1,76,76,2023-07-13
+959,Electronics,Headphones,North,9,237,2133,2023-06-06
+960,Clothing,Jacket,South,4,293,1172,2023-03-08
+961,Clothing,Jeans,East,7,438,3066,2023-03-12
+962,Sports,Cricket Bat,North,2,30,60,2024-02-08
+963,Beauty,Shampoo,West,1,383,383,2023-06-06
+964,Beauty,Face Cream,South,5,445,2225,2024-08-04
+965,Clothing,Shirt,South,2,177,354,2024-02-17
+966,Beauty,Shampoo,East,1,332,332,2023-11-12
+967,Clothing,Jacket,South,1,414,414,2023-05-27
+968,Clothing,Shoes,North,4,124,496,2024-11-13
+969,Furniture,Bed,North,4,406,1624,2023-11-28
+970,Clothing,Jeans,East,5,399,1995,2024-09-02
+971,Beauty,Face Cream,West,9,328,2952,2023-06-21
+972,Beauty,Shampoo,East,7,322,2254,2024-12-05
+973,Sports,Tennis Racket,West,8,270,2160,2024-04-18
+974,Electronics,Mobile,South,7,450,3150,2024-11-27
+975,Furniture,Table,South,7,75,525,2024-05-04
+976,Sports,Shoes,South,8,373,2984,2023-06-11
+977,Electronics,Laptop,South,5,345,1725,2023-11-15
+978,Electronics,Headphones,North,2,286,572,2023-06-25
+979,Electronics,Mobile,North,8,35,280,2023-01-20
+980,Electronics,Tablet,South,8,242,1936,2023-01-11
+981,Furniture,Sofa,North,9,73,657,2023-11-21
+982,Beauty,Shampoo,South,7,68,476,2024-02-06
+983,Sports,Shoes,North,6,51,306,2023-02-13
+984,Clothing,Shoes,West,2,92,184,2023-06-18
+985,Electronics,Tablet,West,9,380,3420,2023-03-12
+986,Furniture,Sofa,North,8,44,352,2024-03-21
+987,Beauty,Perfume,North,3,85,255,2023-08-27
+988,Electronics,Mobile,West,3,385,1155,2024-01-12
+989,Furniture,Sofa,East,8,170,1360,2024-01-20
+990,Clothing,Jeans,North,3,388,1164,2024-05-12
+991,Beauty,Face Cream,North,5,77,385,2024-07-29
+992,Furniture,Bed,North,3,260,780,2023-09-27
+993,Beauty,Lipstick,South,7,428,2996,2024-12-21
+994,Furniture,Table,South,8,484,3872,2023-07-13
+995,Electronics,Tablet,West,7,398,2786,2023-04-16
+996,Beauty,Perfume,North,8,147,1176,2023-08-02
+997,Sports,Tennis Racket,West,9,213,1917,2023-10-24
+998,Clothing,Jacket,East,6,213,1278,2023-10-18
+999,Furniture,Table,North,8,78,624,2024-10-24
+1000,Beauty,Face Cream,West,4,264,1056,2024-02-12
